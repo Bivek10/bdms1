@@ -423,7 +423,7 @@ while ($row = mysqli_fetch_assoc($result)) {
       </div>
       <div class="credits">
 
-        Designed by <a href="#d">XXXXXX &hearts;</a>
+        Designed by <a href="#d">Usha Subedi &hearts;</a>
 
       </div>
 
